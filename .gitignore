@@ -1,0 +1,15 @@
+.vs/
+Roommates.API/bin/
+Roommates.API/obj/
+Roommates.API/appsettings
+
+TestResults
+
+SpecFlowTest/bin/
+SpecFlowTest/obj/
+
+RoommatesAPI.UnitTest/bin/
+RoommatesAPI.UnitTest/obj/
+
+
+
